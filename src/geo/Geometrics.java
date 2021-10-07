@@ -17,7 +17,7 @@ public class Geometrics {
 
         static void println(double x, double y, double z) {
         
-             for (double x)
+             for (double x =
              
         
         
