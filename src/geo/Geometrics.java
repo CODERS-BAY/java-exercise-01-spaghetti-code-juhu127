@@ -14,12 +14,21 @@ public class Geometrics {
     private static int z3 = 69;
 
     public static void main(String[] args) {
-        // area ... Fläche
+
+        static void println(double x, double y, double z) {
+        
+             for (double x)
+             
+        
+        
+            // area ... Fläche
         System.out.println("Square area");
         System.out.println("x * x = " + x * x);
         System.out.println("x1 * x1 = " + x1 * x1);
         System.out.println("x2 * x2 = " + x2 * x2);
         System.out.println("y * y = " + y * y);
+
+        
 
         // perimeter ... Umfang
         System.out.println("Square perimeter");
@@ -28,17 +37,20 @@ public class Geometrics {
         System.out.println("4 * x2 = " + 4 * x2);
         System.out.println("4 * y = " + 4 * y);
 
+
         System.out.println("Rectangle area");
         System.out.println("x * y = " + x * y);
         System.out.println("x1 * y1 = " + x1 * y1);
         System.out.println("x2 * y2 = " + x2 * y2);
         System.out.println("x3 * y3 = " + x3 * y3);
 
+
         System.out.println("Rectangle perimeter");
         System.out.println("x + y = " + x + y);
         System.out.println("x1 + y1 = " + x1 + y1);
         System.out.println("x2 + y2 = " + x2 + y2);
         System.out.println("x3 + y3 = " + x3 + y3);
+
 
         System.out.println("We can also calculate some volumes");
         /*
